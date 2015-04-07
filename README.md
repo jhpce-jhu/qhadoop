@@ -1,2 +1,2 @@
 # qhadoop
-Integrating Hadoop int OGS Cluster
+Integrating Hadoop into OGS Cluster
